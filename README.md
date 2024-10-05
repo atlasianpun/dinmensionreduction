@@ -1,4 +1,4 @@
-. Each script is designed to perform specific data processing tasks, primarily focusing on dimensionality reduction techniques. The document outlines the purpose, functions, and usage of each script.
+Each script is designed to perform specific data processing tasks, primarily focusing on dimensionality reduction techniques. The document outlines the purpose, functions, and usage of each script.
 1. pca1.py
 Purpose
 The pca1.py script performs Principal Component Analysis (PCA) without mean subtraction. It reduces the dimensionality of the data by projecting it onto the principal components.
